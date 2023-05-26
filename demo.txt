@@ -1,1 +1,2 @@
 This is demofile information
+This is second appemded line to demo.txt from git cmd promt
